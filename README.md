@@ -92,6 +92,16 @@ DBT_Project:
 
 ---
 
-## 👨‍💻 Author
-**Avishkar**  
-*Data Engineering & Modern Data Stack Practitioner*
+
+<img width="2452" height="5867" alt="image" src="https://github.com/user-attachments/assets/45840c47-8469-4db7-baa0-9f1e8851f1b9" />
+<img width="2734" height="4284" alt="image" src="https://github.com/user-attachments/assets/a9c609ac-09ad-46f7-8ae2-14a3b254b55b" />
+<img width="2486" height="6642" alt="image" src="https://github.com/user-attachments/assets/8d1ed471-452a-4191-aaef-48bb4051d6aa" />
+<img width="2401" height="6106" alt="image" src="https://github.com/user-attachments/assets/a659ac6b-5282-4d9a-8fa5-e761d460f529" />
+<img width="2985" height="4434" alt="image" src="https://github.com/user-attachments/assets/9519c8bd-194f-4da6-b280-bc8713c094f2" />
+<img width="2711" height="4833" alt="image" src="https://github.com/user-attachments/assets/45bf8369-0186-473e-8c14-c181c5d42305" />
+
+
+
+
+
+
