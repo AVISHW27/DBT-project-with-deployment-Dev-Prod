@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: source   # Yeh dbt ke andar source ka naam hai (aap kuch bhi rakh sakte hain)
+    database: '{{target.database}}' # Aapke Databricks ka catalog naam
+    schema: source            # Aapke Databricks ka schema naam (jo screenshot mein dikh raha hai)
+    tables:
+      - name: dim_customer
+      - name: dim_date
+      - name: dim_product
+      - name: dim_store
+      - name: fact_returns
+      - name: fact_sales
+      - name: items

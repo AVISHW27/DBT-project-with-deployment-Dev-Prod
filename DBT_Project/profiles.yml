@@ -1,0 +1,20 @@
+DBT_Project:
+  outputs:
+    dev:
+      catalog: dbt_development
+      host: <enter your host here>
+      http_path: <enter your http path here>
+      schema: bronze
+      threads: 1
+      token: <enter your token here>
+      type: databricks
+
+    prod:
+      catalog: dbt_production
+      host: <enter your host here>
+      http_path: <enter your http path here>
+      schema: bronze
+      threads: 1
+      token: <enter your token here>
+      type: databricks
+  target: dev
